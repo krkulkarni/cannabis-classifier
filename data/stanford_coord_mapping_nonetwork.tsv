@@ -1,0 +1,91 @@
+	stanford_name	coordinates	description	parcel_ind
+0	ant_sal_1	[-32, 48, 20]	L prefrontal cortex	0
+1	ant_sal_2	[-42, 14, -4]	L anterior insula	1
+2	ant_sal_3	[0, 18, 44]	bilateral ACC	2
+3	ant_sal_4	[28, 45, 27]	R frontal gyrus	3
+4	ant_sal_5	[45, 13, 0]	R anterior insula	4
+5	ant_sal_6	[-35, -55, -32]	L crus cerebellum	5
+6	ant_sal_7	[34, -56, -32]	R crus cerebellum	6
+7	auditory_1	[-58, -16, 10]	L superior temporal/auditory	7
+8	auditory_2	[56, -6, 8]	R superior temporal/auditory	8
+9	auditory_3	[15, -16, 0]	R thalamus	9
+10	bg_1	[15, 2, 16]	R striatum/thalamus	10
+11	bg_2	[-8, -12, 10]	R striatum/thalamus	11
+12	bg_3	[-45, 21, 25]	L inferior frontal gyrus	12
+13	bg_4	[48, 29, 19]	R inferior frontal gyrus	13
+14	bg_5	[-6, -26, -38]	pons/dropout region	14
+15	dors_DMN_1	[0, 52, 13]	bilateral mPFC	15
+16	dors_DMN_2	[-48, -66, 35]	L lateral angular gyrus	16
+17	dors_DMN_3	[21, 29, 47]	R superior frontal gyrus	17
+18	dors_DMN_4	[0, -54, 27]	bilateral posterior cingulate	18
+19	dors_DMN_5	[2, -15, 37]	bilateral middle cingulate	19
+20	dors_DMN_6	[49, -63, 34]	R lateral angular gyrus	20
+21	dors_DMN_7	[0, -10, 5]	bilateral anterior thalamus	21
+22	dors_DMN_8	[-27, -27, -15]	L parahippocampal gyrus	22
+23	dors_DMN_9	[26, -22, -17]	R parahippocampal gyrus	23
+24	high_visual_1	[-28, -91, 4]	L mid occipital cortex	24
+25	high_visual_2	[34, -89, 2]	R mid occipital cortex	25
+26	lang_1	[-46, 27, -10]	L inferior frontal gyrus	26
+27	lang_2	[-53, -2, 20]	L mid-temporal cortex	27
+28	lang_3	[-53, -34, -4]	L mid-posterior temporal cortex	28
+29	lang_4	[-47, -55, 32]	L medial angular gyrus	29
+30	lang_5	[48, 28, -10]	R inferior frontal gyrus	30
+31	lang_6	[56, -49, 15]	R mid-temporal cortex	31
+32	lang_7	[-24, -78, -34]	L crus cerebellum	32
+33	lecn_1	[-37, 24, 46]	L middle frontal/dlPFC	33
+34	lecn_2	[-41, 40, -1]	L inferior frontal (triangular)	34
+35	lecn_3	[-43, -63, 46]	L inferior parietal/angular gyrus	35
+36	lecn_4	[-57, -44, -14]	L inferior temporal gyrus	36
+37	lecn_5	[39, -69, -43]	R crus cerebellum	37
+38	lecn_6	[-14, -27, 3]	L posterior thalamus	38
+39	post_sal_1	[-40, 36, 30]	L middle frontal gyrus	39
+40	post_sal_2	[-58, -38, 35]	L supramarginal cortex	40
+41	post_sal_3	[-8, -51, 64]	L precuneus	41
+42	post_sal_4	[12, -26, 45]	R posterior cingulate	42
+43	post_sal_5	[12, -54, 66]	R precuneus	43
+44	post_sal_6	[61, -32, 36]	R supramarginal cortex	44
+45	post_sal_7	[-12, -21, 7]	L middle thalamus	45
+46	post_sal_8	[-33, -39, -37]	L anterior cerebellum	46
+47	post_sal_9	[-41, -13, -4]	L superior temporal gyrus	47
+48	post_sal_10	[11, -13, 10]	R middle thalamus	48
+49	post_sal_11	[34, -42, -39]	R anterior cerebellum	49
+50	post_sal_12	[42, -5, -7]	R superior temporal gyrus	50
+51	precuneus_1	[3, -27, 28]	bilateral mid-posterior cingulate	51
+52	precuneus_2	[3, -72, 43]	bilateral medial posterior precuneus	52
+53	precuneus_3	[-37, -60, 48]	L inferior parietal cortex	53
+54	precuneus_4	[39, -62, 47]	R angular gyrus/precuneus	54
+55	prim_visual_1	[1, -78, 14]	bilateral calcarine cortex	55
+56	prim_visual_2	[-18, -25, -4]	L LGN	56
+57	recn_1	[41, 29, 40]	R middle frontal/dlPFC	57
+58	recn_2	[39, 56, -2]	R middle orbito-frontal cortex	58
+59	recn_3	[47, -55, 51]	R inferior parietal/angular gyrus	59
+60	recn_4	[6, 37, 48]	R superior medial frontal gyrus	60
+61	recn_5	[-39, -68, -40]	L crus cerebellum	61
+62	recn_6	[14, 4, 15]	R caudate	62
+63	sensorimotor_1	[-45, -20, 50]	L pre/post-central gyri	63
+64	sensorimotor_2	[39, -20, 57]	R pre/post-central gyri	64
+65	sensorimotor_3	[2, -11, 60]	bilateral supplementary motor area	65
+66	sensorimotor_4	[-11, -19, -2]	L ventral posterior nucleus of thalamus	66
+67	sensorimotor_5	[-1, -52, -12]	cerebellar vermis	67
+68	sensorimotor_6	[11, -19, -4]	R ventral posterior nucleus of thalamus	68
+69	vent_DMN_1	[-10, -53, 10]	L ventral precuneus	69
+70	vent_DMN_2	[-24, 12, 56]	L middle frontal gyrus 	70
+71	vent_DMN_3	[-27, -39, -10]	L fusiform gyrus	71
+72	vent_DMN_4	[-36, -80, 33]	L mid-occipital cortex	72
+73	vent_DMN_5	[11, -52, 13]	R ventral precuneus	73
+74	vent_DMN_6	[0, -57, 56]	bilateral medial precuneus	74
+75	vent_DMN_7	[27, 27, 48]	R middle frontal gyrus	75
+76	vent_DMN_8	[27, -32, -20]	R fusiform gyrus	76
+77	vent_DMN_9	[44, -74, 33]	R mid-occipital cortex	77
+78	vent_DMN_10	[14, -46, -51]	R inferior cerebellum	78
+79	visiospatial_1	[-25, 0, 54]	L superior frontal gyrus	79
+80	visiospatial_2	[-27, -56, 53]	L superior/inferior parietal cortex	80
+81	visiospatial_3	[-53, 14, 29]	L precentral/fronto-opercular region	81
+82	visiospatial_4	[-48, -65, -6]	L inferior temporal gyrus	82
+83	visiospatial_5	[29, 2, 56]	R superior frontal gyrus	83
+84	visiospatial_6	[29, -60, 53]	R superior/inferior parietal cortex	84
+85	visiospatial_7	[46, 10, 28]	R precentral/fronto-opercular region	85
+86	visiospatial_8	[50, -57, -10]	R inferior temporal cortex	86
+87	visiospatial_9	[-27, -72, -51]	L cerebellum	87
+88	visiospatial_10	[23, -72, -50]	R cerebellum	88
+89	visiospatial_11	[37, -69, -24]	R crus cerebellum	89

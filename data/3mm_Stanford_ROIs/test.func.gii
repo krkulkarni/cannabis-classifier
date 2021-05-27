@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://brainvis.wustl.edu/caret6/xml_schemas/GIFTI_Caret.xsd"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexLeft]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ProgramProvenance]]></Name>
+         <Value><![CDATA[Connectome Workbench
+Type: Command Line Application
+Version: 1.4.2
+Qt Compiled Version: 5.7.0
+Qt Runtime Version: 5.7.0
+Commit: 092b7f2f7dfab0f9ea7cbb6c1db2e5dffd2c1045
+Commit Date: 2020-01-07 17:24:23 -0600
+Compiled with OpenMP: YES
+Compiler: cl.exe (C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64)
+Compiler Version: 19.0.24215.1
+Compiled Debug: NO
+Operating System: Windows
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Provenance]]></Name>
+         <Value><![CDATA[C:\Users\kulka\Documents\workbench\bin_windows64\wb_command.exe -volume-to-surface-mapping ant_sal_1.nii '..\Surface Meshes\pial.left.gii' test.func.gii -trilinear]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[WorkingDirectory]]></Name>
+         <Value><![CDATA[G:/My Drive/Schiller-Gu-Lab/Projects/MJCraving/ConnSig/3mm_Stanford_ROIs]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_NORMAL"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="10242"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[ trilinear]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3V1Ik1Ecx/FHusgMSiQzQ3yBoDCMXjDSbeePTbwoM/MFu1CyCDW0LfOlxLQHyySQUARzREVRIFJBGBRdGYksRE2C6qLIbsSGCCEFqVD5zGYRoZA5274fGIfdne3Zec6f33/b0bRZQZ/bTZoP0SNPyPSYU1HnU68Lbp0Zacb1fd2xWX2/2uLt+QC+6tTDWNbXjPzHQ+p9qK68PQ9g0bXY3J/7tlIJ7f2iKhrOu5/rUawHYAlIjbs2z7U4XTPropf1qY8TlxP/7aywWBwdq7kXAwAwY398jZFh1L9dZ4wBBbVSPpIojqhjQn4IAFgQEactXSe3y2TFeou3pwI/NHTO3Bq7x1TZOkwWsMB0ywXeUwCAX3F2BoqWcF9pdzJV6WC+GltVbeQmF4uKqXOBJeDF7lw5at9k2VdUMkedqou9P83IPkf6k8k/AQAA/qCg46B8WnlAqu4ul8LURtVmDfHUWXqeXQKuVMi22CdqqqZS9NydUmarlcbcM9RXAAAA8FO66C6X6jIdkh+/QZl+hHW2q6APffTWAeAvxDRVz/ZjU6xKSwn33FcLYhxqsmeHZbQ+mEwCmJMu444Q1goAAAAAAMBPmkdb3HmjK0vpa5+rri158uZ6vEy+ipRdpRtEqxsw8snsW3uNMWfsEX0fAMASpf/yfQWtO0GcCU3m7PFkdellOfsXMA8Rh4dV0lCzcSZH2Ahnc/i6d1Ubzd6eAwAAAOBtg7YS0QJ7LOPl3ZanhQ/MW4+km1297nOlcmxXPTXzbWeMhGXdU8FpZ2XAZHdnD9Z09VseAQAAAACAn5vKbJjtQR2PFq3/Bv16AMB/pfOrrrqqraJPhIvWuMKzjy171mjscWtuOk3FSRn8Hz/gi+rijH7PeHQGNSwAAAAAAACAOX0DRKK5UA==</Data>
+</DataArray>
+</GIFTI>
