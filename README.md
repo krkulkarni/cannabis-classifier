@@ -3,7 +3,7 @@
 Contains data and analysis code for [Bioraxiv link to paper]
 
 Jupyter notebooks for analyses:
-1_Decoding_pipeline.ipynb
+* 1_Decoding_pipeline.ipynb
 	- Main machine learning/decoding analysis
 2_Interpretation_pipeline.ipynb
 	- Network analysis of resulting models
