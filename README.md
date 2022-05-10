@@ -1,4 +1,4 @@
-# MJ Classifier
+# Cannabis Classifier
 
 Contains data and analysis code for https://doi.org/10.1101/2021.05.04.442433
 
